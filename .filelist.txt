@@ -1,0 +1,3 @@
+content/dota/maps/ dota.vmap
+game/dota/maps/ dota.vpk
+game/dota/ steam.inf
