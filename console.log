@@ -1,218 +1,119 @@
-02/13 23:40:19 [RenderSystem] Determined driver version for graphics adapter 0 [output 0] 'Microsoft Basic Render Driver': 10.0.18362.356
-02/13 23:40:19 [RenderSystem] Loaded video settings config from 'cfg\video_tools.txt'
-02/13 23:40:31 [Filesystem] ---------------
-02/13 23:40:31 [Filesystem] Path ID:             File Path:
-02/13 23:40:31 [Filesystem] ADDONS               "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\" 
-02/13 23:40:31 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota\" 
-02/13 23:40:31 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\core\" 
-02/13 23:40:31 [Filesystem] CONTENTADDONS        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota_addons\" 
-02/13 23:40:31 [Filesystem] CONTENTROOT          "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\" 
-02/13 23:40:31 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
-02/13 23:40:31 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
-02/13 23:40:31 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\" 
-02/13 23:40:31 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\" 
-02/13 23:40:31 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
-02/13 23:40:31 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
-02/13 23:40:31 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk
-02/13 23:40:31 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk
-02/13 23:40:31 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
-02/13 23:40:31 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
-02/13 23:40:31 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\win64\" 
-02/13 23:40:31 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\" 
-02/13 23:40:31 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\win64\" 
-02/13 23:40:31 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\" 
-02/13 23:40:31 [Filesystem] GAMEROOT             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\" 
-02/13 23:40:31 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
-02/13 23:40:31 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
-02/13 23:40:31 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
-02/13 23:40:31 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
-02/13 23:40:31 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
-02/13 23:40:31 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\core\" 
-02/13 23:40:31 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_addons\" 
-02/13 23:40:31 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_core\" 
-02/13 23:40:31 [Filesystem] SHADER_SOURCE_MOD    "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
-02/13 23:40:31 [Filesystem] SHADER_SOURCE_ROOT   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\" 
-02/13 23:40:31 [CommandLine] command line arguments:
-02/13 23:40:31 [CommandLine] -tools -condebug +dump_modifier_list +dota_launch_custom_game dota_dump dota
-02/13 23:40:37 [SteamNetSockets] Initialized low level socket/threading support.
-02/13 23:40:37 [Networking] Got ISteamNetworkingSockets user interfaces from standalone lib
-02/13 23:40:37 [SteamNetSockets] Pending ping measurement until network config is obtained.
-02/13 23:40:37 [SteamNetSockets] RelayNetWorkStatus:  avail=Attempting  config=Attempting  anyrelay=Waiting   (Attempt #1 to fetch config from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570&partner=valve)
-02/13 23:40:37 [SteamNetSockets] SteamNetworkingSockets lock held for 28.9ms.  (Performance warning).  BeginFetchNetworkConfig
-02/13 23:40:37 [SteamNetSockets] AuthStatus (steamid:76561199022215920):  Attempting  (Requesting cert)
-02/13 23:40:37 [Networking] Network System Initialized
-02/13 23:40:37 [SceneSystem] Thread pool has 1 threads, scene system using 1 partitions
-02/13 23:40:37 [Vfx] No valid vcs file found for shader gaussian_bloom_blur.vfx
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/13 23:40:37 [Vfx] No valid vcs file found for shader gaussian_bloom_blur_cs.vfx
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/13 23:40:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/13 23:40:47 WARNING: unable to link rr_findrules_verbose and rr_findrules_verbose because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
-02/13 23:40:47 WARNING: unable to link rr_findrules and rr_findrules because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
-02/13 23:40:52 [AssetSystem] AssetSystem: Mod 'dota' set to read-only
-02/13 23:40:52 [AssetSystem] AssetSystem: Mod 'core' set to read-only
-02/13 23:40:53 [HelpSystem] Failed to find mod help file 'resource/toolhelp_dota_fgd_german.txt' (dota) - new help will be written to 'C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\resource\toolhelp_dota_fgd_german.txt'
-02/13 23:40:53 [HelpSystem] Failed to find mod help file 'resource/toolhelp_base_fgd_german.txt' (core) - new help will be written to 'C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\resource\toolhelp_base_fgd_german.txt'
-02/13 23:40:55 [HelpSystem] Failed to find help file 'resource/toolhelp_helpsystem_german.txt' - new help will be written to 'c:\program files (x86)\steam\steamapps\common\dota 2 beta\game\core\resource\toolhelp_helpsystem_german.txt'
-02/13 23:40:58 [ToolFramework2] Registering external tool for extension:         '.vanim':                            App auswählen (command line: 'C:\WINDOWS\system32\OpenWith.exe "%1"')
-02/13 23:40:58 [ToolFramework2] Registering external tool for extension:           '.css':                                   Editor (command line: 'C:\WINDOWS\system32\NOTEPAD.EXE %1')
-02/13 23:40:58 [ToolFramework2] Registering external tool for extension:           '.xml':  IE ActiveX Interface Marshaling Library (command line: '"C:\Program Files\Internet Explorer\iexplore.exe" %1')
-02/13 23:40:58 [ToolFramework2] Registering external tool for extension:            '.js':    Microsoft ® Windows Based Script Host (command line: 'C:\Windows\System32\WScript.exe "%1" %*')
-02/13 23:40:58 [ToolFramework2] Registering external tool for extension:           '.tif':                      Windows-Fotoanzeige (command line: 'C:\WINDOWS\System32\rundll32.exe "C:\Program Files\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1')
-02/13 23:40:59 [SteamNetSockets] Waited 2.7ms for SteamNetworkingSockets lock
-02/13 23:41:01 [AssetSystem] AssetSystem loaded persistent info from 2 layers / 261400 assets in 2.01s
-02/13 23:41:01 [AssetSystem] Scanning for Asset Files (1/4): 'Game (dota)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\, previously scanned 0 directories and 0 files
-02/13 23:41:01 [HangWatchdog] Hang detected.
-02/13 23:41:01 [SteamNetSockets] SteamNetworkingSockets lock held for 15.6ms.  (Performance warning).  ServiceThread
-02/13 23:41:03 [AssetSystem] Scanning for Asset Files (2/4): 'Game (core)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\, previously scanned 0 directories and 0 files
-02/13 23:41:03 [AssetSystem] Scanning for Asset Files (3/4): 'Content (dota)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota\, previously scanned 0 directories and 0 files
-02/13 23:41:03 [AssetSystem] Scanning for Asset Files (4/4): 'Content (core)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\core\, previously scanned 0 directories and 0 files
-02/13 23:41:03 [AssetSystem] AssetSystem files scanned in 2.29 seconds.
-02/13 23:41:03 [AssetSystem] AssetSystem pruned 0 stale assets
-02/13 23:41:03 [AssetSystem] Asset System - Updating dependency information...
-02/13 23:41:14 [AssetSystem] AssetSystem saved persistent info for 0 layers / 0 assets in 0.000 sec
-02/13 23:41:17 [AssetSystem] AssetSystem dependency data propagated in 13.86s (refreshed 0 of 261190)
-02/13 23:41:17 [AssetSystem] AssetSystem dependency graph created in 13.87 seconds.
-02/13 23:41:17 [AssetSystem] AssetSystem saved persistent info for 0 layers / 0 assets in 0.000 sec
-02/13 23:41:18 [AssetSystem] Loading Asset Tags...
-02/13 23:41:18 [AssetSystem] AssetSystem initialized in 19.65 seconds. [2.01 load, 2.29 scan, 13.87 dependencies, 0.00 save]
-02/13 23:41:19 [SplitScreen] Clamping split screen users to 1 due to -tools mode.
-02/13 23:41:19 [SoundSystemLowLevel] DirectSound Create failed.
-02/13 23:41:19 [SoundSystemLowLevel] Failed to initialize direct sound!
-02/13 23:41:19 [SoundSystem] Sound Initialization: Finish, Sampling Rate: 44100
-02/13 23:41:19 ConVarRef r_dota_force_forward doesn't point to an existing ConVar
-02/13 23:41:20 ILocalize::AddFile() failed to load file "resource/keybindings_german.txt".
-02/13 23:41:21 Affinity preferences: 2 logical processors, limiting to 2
-02/13 23:41:21    0 - proc  0 (grp 0:0  / phy 0 / cor 0 / smt 0): max freq 0
-02/13 23:41:21    1 - proc  1 (grp 0:1  / phy 1 / cor 0 / smt 0): max freq 0
-02/13 23:41:21 Affinity preferences: no logical processor speed variation
-02/13 23:41:21 Affinity preferences: disabled (2 physical procs, 2 logical)
-02/13 23:41:21     nopref-all 0: proc 0 (group 0:0)
-02/13 23:41:21   nopref-all slot 0 combined mask 0:0x1
-02/13 23:41:21     nopref-all 1: proc 1 (group 0:1)
-02/13 23:41:21   nopref-all slot 1 combined mask 0:0x2
-02/13 23:41:21 Affinity preferences: no preferences, skipping assignment
-02/13 23:41:24 [HangWatchdog] Hang detected.
-02/13 23:41:26 [SteamNetSockets] SteamNetworkingSockets lock held for 10.6ms.  (Performance warning).  ServiceThread
-02/13 23:41:27 [SteamNetSockets] SteamNetworkingSockets lock held for 15.3ms.  (Performance warning).  ServiceThread
-02/13 23:41:31 [HangWatchdog] Hang detected.
-02/13 23:41:35 [SteamNetSockets] SteamNetworkingSockets lock held for 17.5ms.  (Performance warning).  ServiceThread
-02/13 23:41:35 [ResourceSystem] Error loading resource file "panorama/dynamic_images_ti10.vpdi_c" (Error: ERROR_FILEOPEN)
-02/13 23:41:39 [SteamNetSockets] SteamNetworkingSockets lock held for 8.1ms.  (Performance warning).  ServiceThread
-02/13 23:41:39 [SteamNetSockets] SteamNetworkingSockets lock held for 10.7ms.  (Performance warning).  ServiceThread
-02/13 23:41:39 [SteamNetSockets] SteamNetworkingSockets lock held for 13.6ms.  (Performance warning).  ServiceThread
-02/13 23:41:41 [HangWatchdog] Hang detected.
-02/13 23:41:42 ILocalize::AddFile() failed to load file "resource/dota_english.txt".
-02/13 23:41:42 ILocalize::AddFile() failed to load file "resource/dota_german.txt".
-02/13 23:41:44 [SteamNetSockets] SteamNetworkingSockets lock held for 12.2ms.  (Performance warning).  ServiceThread
-02/13 23:41:46 [SteamNetSockets] SteamNetworkingSockets lock held for 12.7ms.  (Performance warning).  ServiceThread
-02/13 23:41:46 [SteamNetSockets] SteamNetworkingSockets lock held for 12.6ms.  (Performance warning).  ServiceThread
-02/13 23:41:47 [SceneFileCache] Loaded 64751 .vcds from 183 vcdlist files
-02/13 23:41:47 [Client] Event System loaded 96 events from file: vpk:C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/game/core/pak01.vpk:resource/core.gameevents.
-02/13 23:41:47 [Client] Event System loaded 250 events from file: vpk:C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:resource/game.gameevents.
-02/13 23:41:47 [Client] Event System loaded 1 events from file: vpk:C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:./resource/port.gameevents.
-02/13 23:41:48 ReadSteamRemoteStorageFile( bufOut, "cfg/pending_replay_requests.lst" ) -> 0.003831 seconds
-02/13 23:41:49 [SteamNetSockets] SteamNetworkingSockets lock held for 9.0ms.  (Performance warning).  ServiceThread
-02/13 23:41:51 [SteamNetSockets] SteamNetworkingSockets lock held for 12.0ms.  (Performance warning).  ServiceThread
-02/13 23:41:52 ReadSteamRemoteStorageFile( bufOut, "cfg/dotakeys_personal.lst" ) -> 0.004073 seconds
-02/13 23:41:52 [HangWatchdog] Hang detected.
-02/13 23:41:54 [Networking] CEntitySystem::BuildEntityNetworking (parallel build of client) took 1228.931 msecs for 990 out of 1012 classes
-02/13 23:41:55 [SteamNetSockets] Waited 4.7ms for SteamNetworkingSockets lock
-02/13 23:41:57 [SteamNetSockets] SteamNetworkingSockets lock held for 10.0ms.  (Performance warning).  ServiceThread
-02/13 23:41:58 [SteamNetSockets] SteamNetworkingSockets lock held for 8.4ms.  (Performance warning).  ServiceThread
-02/13 23:41:59 [SteamNetSockets] SteamNetworkingSockets lock held for 10.3ms.  (Performance warning).  ServiceThread
-02/13 23:41:59 [SteamNetSockets] SteamNetworkingSockets lock held for 12.0ms.  (Performance warning).  ServiceThread
-02/13 23:41:59 [HangWatchdog] Hang detected.
-02/13 23:42:02 Inventory shuffle information file "cfg/dota_player_loadout_shuffle.txt" not found in remote storage; not loading.
-02/13 23:42:02 Telling Steam it is safe to update the app
-02/13 23:42:02 [SteamNetSockets] SteamNetworkingSockets lock held for 12.3ms.  (Performance warning).  ServiceThread
-02/13 23:42:03 [GCClient] Logged on to Steam, set GC connection state to NO_SESSION
-02/13 23:42:03 [GCClient] Recv msg 4009 (k_EMsgGCClientConnectionStatus), 10 bytes
-02/13 23:42:03 [GCClient] Notifying GC we don't need a session.
-02/13 23:42:03 [GCClient] Send msg 4006 (k_EMsgGCClientHello), 106 bytes
-02/13 23:42:03 [GCClient] Recv msg 4009 (k_EMsgGCClientConnectionStatus), 10 bytes
-02/13 23:42:03 [GCClient] Notifying GC we don't need a session.
-02/13 23:42:03 [GCClient] Send msg 4006 (k_EMsgGCClientHello), 106 bytes
-02/13 23:42:04 [SteamNetSockets] SteamNetworkingSockets lock held for 14.9ms.  (Performance warning).  ServiceThread
-02/13 23:42:04 [SteamNetSockets] Waited 10.3ms for SteamNetworkingSockets lock
-02/13 23:42:04 [SteamNetSockets] SteamNetworkingSockets lock held for 5.9ms.  (Performance warning).  ServiceThread
-02/13 23:42:06 [SteamNetSockets] SteamNetworkingSockets lock held for 11.9ms.  (Performance warning).  ServiceThread
-02/13 23:42:06 [SteamNetSockets] SteamNetworkingSockets lock held for 10.4ms.  (Performance warning).  ServiceThread
-02/13 23:42:06 [SteamNetSockets] SteamNetworkingSockets lock held for 6.5ms.  (Performance warning).  ServiceThread
-02/13 23:42:07 [HangWatchdog] Hang detected.
-02/13 23:42:11 [SteamNetSockets] Waited 6.6ms for SteamNetworkingSockets lock
-02/13 23:42:11 [SteamNetSockets] SteamNetworkingSockets lock held for 7.8ms.  (Performance warning).  ServiceThread
-02/13 23:42:12 [SteamNetSockets] SteamNetworkingSockets lock held for 9.8ms.  (Performance warning).  ServiceThread
-02/13 23:42:13 [HangWatchdog] Hang detected.
-02/13 23:42:16 [SteamNetSockets] SteamNetworkingSockets lock held for 14.1ms.  (Performance warning).  ServiceThread
-02/13 23:42:17 [SteamNetSockets] SteamNetworkingSockets lock held for 5.8ms.  (Performance warning).  ServiceThread
-02/13 23:42:18 [SteamNetSockets] SteamNetworkingSockets lock held for 7.0ms.  (Performance warning).  ServiceThread
-02/13 23:42:19 [HangWatchdog] Hang detected.
-02/13 23:42:28 [Server] Event System loaded 96 events from file: vpk:C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/game/core/pak01.vpk:resource/core.gameevents.
-02/13 23:42:28 [Server] Event System loaded 250 events from file: vpk:C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:resource/game.gameevents.
-02/13 23:42:28 [Server] Event System loaded 1 events from file: vpk:C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:./resource/port.gameevents.
-02/13 23:42:30 [Networking] CEntitySystem::BuildEntityNetworking (parallel build of server) took 937.435 msecs for 987 out of 1006 classes
-02/13 23:42:33 [SteamNetSockets] SteamNetworkingSockets lock held for 11.9ms.  (Performance warning).  ServiceThread
-02/13 23:42:33 [SteamNetSockets] Waited 10.6ms for SteamNetworkingSockets lock
-02/13 23:42:34 [SteamNetSockets] SteamNetworkingSockets lock held for 10.8ms.  (Performance warning).  ServiceThread
-02/13 23:42:34 [SteamNetSockets] Waited 2.2ms for SteamNetworkingSockets lock
-02/13 23:42:35 [SteamNetSockets] Waited 7.6ms for SteamNetworkingSockets lock
-02/13 23:42:36 [SteamNetSockets] SteamNetworkingSockets lock held for 12.7ms.  (Performance warning).  ServiceThread
-02/13 23:42:36 [HangWatchdog] Hang detected.
-02/13 23:42:40 [SteamNetSockets] SteamNetworkingSockets lock held for 5.2ms.  (Performance warning).  ServiceThread
-02/13 23:42:43 [SteamNetSockets] SteamNetworkingSockets lock held for 15.3ms.  (Performance warning).  ServiceThread
-02/13 23:42:44 [HangWatchdog] Hang detected.
-02/13 23:42:45 [SteamNetSockets] SteamNetworkingSockets lock held for 10.9ms.  (Performance warning).  ServiceThread
-02/13 23:42:46 Failed to load mutations file! scripts/battlepass/ti2018/mutations.txt
-02/13 23:42:48 [Vfx] No valid vcs file found for shader generic.vfx
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
-02/13 23:42:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
-02/13 23:42:48 [SteamNetSockets] SteamNetworkingSockets lock held for 8.8ms.  (Performance warning).  ServiceThread
-02/13 23:42:50 [SteamNetSockets] SteamNetworkingSockets lock held for 6.7ms.  (Performance warning).  ServiceThread
-02/13 23:42:52 [ResourceSystem] Error loading resource file "soundevents/soundevents_test.vsndevts_c" (Error: ERROR_FILEOPEN)
-02/13 23:42:52 [SplitScreen] Loaded 'user.vcfg' from SteamRemoteStorage, 105 bytes OK
-02/13 23:42:52 name[ 0 ] changing from 'unnamed' to 'jochnickel123'
-02/13 23:42:52 name[ 0 ] changing from 'jochnickel123' to 'jochnickel123'
-02/13 23:42:52 [SplitScreen] Loaded 'user_keys.vcfg' from SteamRemoteStorage, 54 bytes OK
-02/13 23:42:52 [HostStateManager] CHostStateMgr::QueueNewRequest( Idle (levelload), 1 )
-02/13 23:42:56 [SteamNetSockets] Waited 2.1ms for SteamNetworkingSockets lock
-02/13 23:42:57 [HangWatchdog] Hang detected.
-02/13 23:42:59 [SteamNetSockets] SteamNetworkingSockets lock held for 5.7ms.  (Performance warning).  ServiceThread
-02/13 23:43:03 [HangWatchdog] Hang detected.
-02/13 23:43:03 ChangeGameUIState: DOTA_GAME_UI_STATE_INVALID -> DOTA_GAME_UI_STATE_LOADING_SCREEN
-02/13 23:43:03 Source2Init OK
-02/13 23:43:03 [EngineServiceManager] SwitchToLoop levelload requested:  id [1] addons []
-02/13 23:43:06 [SteamNetSockets] SteamNetworkingSockets lock held for 13.4ms.  (Performance warning).  ServiceThread
-02/13 23:43:07 [SteamNetSockets] SteamNetworkingSockets lock held for 24.8ms.  (Performance warning).  ServiceThread
-02/13 23:43:10 [SteamNetSockets] Waited 3.7ms for SteamNetworkingSockets lock
-02/13 23:43:10 [SteamNetSockets] SteamNetworkingSockets lock held for 6.5ms.  (Performance warning).  ServiceThread
-02/13 23:43:10 [SteamNetSockets] SteamNetworkingSockets lock held for 9.4ms.  (Performance warning).  ServiceThread
-02/13 23:43:10 [SteamNetSockets] SteamNetworkingSockets lock held for 13.4ms.  (Performance warning).  ServiceThread
-02/13 23:43:11 [HangWatchdog] Hang detected.
-02/13 23:43:15 ReadSteamRemoteStorageFile( bufOut, "cfg/herobuilds.cfg" ) -> 0.017200 seconds
-02/13 23:43:16 [SteamNetSockets] Waited 3.4ms for SteamNetworkingSockets lock
-02/13 23:43:16 [SteamNetSockets] SteamNetworkingSockets lock held for 11.6ms.  (Performance warning).  ServiceThread
-02/13 23:43:16 [SteamNetSockets] SteamNetworkingSockets lock held for 5.9ms.  (Performance warning).  ServiceThread
+02/15 00:40:31 [RenderSystem] Determined driver version for graphics adapter 0 [output 0] 'Microsoft Basic Render Driver': 10.0.18362.356
+02/15 00:40:31 [RenderSystem] Loaded video settings config from 'cfg\video_tools.txt'
+02/15 00:41:05 [Filesystem] ---------------
+02/15 00:41:05 [Filesystem] Path ID:             File Path:
+02/15 00:41:05 [Filesystem] ADDONS               "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\" 
+02/15 00:41:05 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota\" 
+02/15 00:41:05 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\core\" 
+02/15 00:41:05 [Filesystem] CONTENTADDONS        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota_addons\" 
+02/15 00:41:05 [Filesystem] CONTENTROOT          "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\" 
+02/15 00:41:05 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+02/15 00:41:05 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
+02/15 00:41:05 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\" 
+02/15 00:41:05 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\" 
+02/15 00:41:05 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+02/15 00:41:05 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
+02/15 00:41:05 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk
+02/15 00:41:05 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk
+02/15 00:41:05 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
+02/15 00:41:05 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
+02/15 00:41:05 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\win64\" 
+02/15 00:41:05 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\" 
+02/15 00:41:05 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\win64\" 
+02/15 00:41:05 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\" 
+02/15 00:41:05 [Filesystem] GAMEROOT             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\" 
+02/15 00:41:05 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+02/15 00:41:05 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
+02/15 00:41:05 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
+02/15 00:41:05 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
+02/15 00:41:05 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
+02/15 00:41:05 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\core\" 
+02/15 00:41:05 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_addons\" 
+02/15 00:41:05 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_core\" 
+02/15 00:41:05 [Filesystem] SHADER_SOURCE_MOD    "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
+02/15 00:41:05 [Filesystem] SHADER_SOURCE_ROOT   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\" 
+02/15 00:41:05 [CommandLine] command line arguments:
+02/15 00:41:05 [CommandLine] -tools -condebug +dump_modifier_list +dota_launch_custom_game dota_dump dota
+02/15 00:41:17 [SteamNetSockets] Initialized low level socket/threading support.
+02/15 00:41:17 [Networking] Got ISteamNetworkingSockets user interfaces from standalone lib
+02/15 00:41:17 [SteamNetSockets] Pending ping measurement until network config is obtained.
+02/15 00:41:17 [SteamNetSockets] RelayNetWorkStatus:  avail=Attempting  config=Attempting  anyrelay=Waiting   (Attempt #1 to fetch config from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570&partner=valve)
+02/15 00:41:17 [SteamNetSockets] SteamNetworkingSockets lock held for 36.5ms.  (Performance warning).  BeginFetchNetworkConfig
+02/15 00:41:17 [SteamNetSockets] AuthStatus (steamid:76561199022215920):  Attempting  (Requesting cert)
+02/15 00:41:17 [Networking] Network System Initialized
+02/15 00:41:18 [SceneSystem] Thread pool has 1 threads, scene system using 1 partitions
+02/15 00:41:28 [Vfx] No valid vcs file found for shader gaussian_bloom_blur.vfx
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/15 00:41:28 [Vfx] No valid vcs file found for shader gaussian_bloom_blur_cs.vfx
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/15 00:41:28 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/15 00:41:35 [SteamNetSockets] SteamNetworkingSockets lock held for 7.7ms.  (Performance warning).  ServiceThread
+02/15 00:41:45 [SteamNetSockets] SteamNetworkingSockets lock held for 11.3ms.  (Performance warning).  ServiceThread
+02/15 00:41:53 [SteamNetSockets] SteamNetworkingSockets lock held for 10.8ms.  (Performance warning).  ServiceThread
+02/15 00:41:55 WARNING: unable to link rr_findrules_verbose and rr_findrules_verbose because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+02/15 00:41:55 WARNING: unable to link rr_findrules and rr_findrules because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+02/15 00:42:12 [AssetSystem] AssetSystem: Mod 'dota' set to read-only
+02/15 00:42:12 [AssetSystem] AssetSystem: Mod 'core' set to read-only
+02/15 00:42:18 [HelpSystem] Failed to find mod help file 'resource/toolhelp_dota_fgd_german.txt' (dota) - new help will be written to 'C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\resource\toolhelp_dota_fgd_german.txt'
+02/15 00:42:18 [HelpSystem] Failed to find mod help file 'resource/toolhelp_base_fgd_german.txt' (core) - new help will be written to 'C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\resource\toolhelp_base_fgd_german.txt'
+02/15 00:42:24 [HelpSystem] Failed to find help file 'resource/toolhelp_helpsystem_german.txt' - new help will be written to 'c:\program files (x86)\steam\steamapps\common\dota 2 beta\game\core\resource\toolhelp_helpsystem_german.txt'
+02/15 00:42:30 [ToolFramework2] Registering external tool for extension:         '.vanim':                            App auswählen (command line: 'C:\WINDOWS\system32\OpenWith.exe "%1"')
+02/15 00:42:30 [ToolFramework2] Registering external tool for extension:           '.css':                                   Editor (command line: 'C:\WINDOWS\system32\NOTEPAD.EXE %1')
+02/15 00:42:30 [ToolFramework2] Registering external tool for extension:           '.xml':  IE ActiveX Interface Marshaling Library (command line: '"C:\Program Files\Internet Explorer\iexplore.exe" %1')
+02/15 00:42:30 [ToolFramework2] Registering external tool for extension:            '.js':    Microsoft ® Windows Based Script Host (command line: 'C:\Windows\System32\WScript.exe "%1" %*')
+02/15 00:42:30 [ToolFramework2] Registering external tool for extension:           '.tif':                      Windows-Fotoanzeige (command line: 'C:\WINDOWS\System32\rundll32.exe "C:\Program Files\Windows Photo Viewer\PhotoViewer.dll", ImageView_Fullscreen %1')
+02/15 00:42:32 [HangWatchdog] Hang detected.
+02/15 00:42:32 [SteamNetSockets] Waited 6.2ms for SteamNetworkingSockets lock
+02/15 00:42:35 [SteamNetSockets] SteamNetworkingSockets lock held for 14.1ms.  (Performance warning).  ServiceThread
+02/15 00:42:40 [AssetSystem] AssetSystem loaded persistent info from 2 layers / 261400 assets in 9.42s
+02/15 00:42:40 [AssetSystem] Scanning for Asset Files (1/4): 'Game (dota)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\, previously scanned 0 directories and 0 files
+02/15 00:42:41 [AssetSystem] Scanning for Asset Files (2/4): 'Game (core)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\, previously scanned 0 directories and 0 files
+02/15 00:42:41 [AssetSystem] Scanning for Asset Files (3/4): 'Content (dota)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota\, previously scanned 0 directories and 0 files
+02/15 00:42:41 [AssetSystem] Scanning for Asset Files (4/4): 'Content (core)' = C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\core\, previously scanned 0 directories and 0 files
+02/15 00:42:41 [AssetSystem] AssetSystem files scanned in 0.53 seconds.
+02/15 00:42:41 [AssetSystem] AssetSystem pruned 0 stale assets
+02/15 00:42:41 [AssetSystem] Asset System - Updating dependency information...
+02/15 00:42:41 [AssetSystem] AssetSystem saved persistent info for 0 layers / 0 assets in 0.000 sec
+02/15 00:42:51 [SteamNetSockets] SteamNetworkingSockets lock held for 7.0ms.  (Performance warning).  ServiceThread
+02/15 00:42:53 [SteamNetSockets] Waited 12.0ms for SteamNetworkingSockets lock
+02/15 00:43:00 [AssetSystem] AssetSystem dependency data propagated in 18.66s (refreshed 0 of 261190)
+02/15 00:43:00 [AssetSystem] AssetSystem dependency graph created in 18.69 seconds.
+02/15 00:43:00 [AssetSystem] AssetSystem saved persistent info for 0 layers / 0 assets in 0.000 sec
+02/15 00:43:04 [HangWatchdog] Hang detected.
+02/15 00:43:05 [AssetSystem] Loading Asset Tags...
+02/15 00:43:05 [AssetSystem] AssetSystem initialized in 33.57 seconds. [9.42 load, 0.53 scan, 18.69 dependencies, 0.00 save]
+02/15 00:43:05 [SteamNetSockets] Waited 11.5ms for SteamNetworkingSockets lock
+02/15 00:43:07 [SplitScreen] Clamping split screen users to 1 due to -tools mode.
+02/15 00:43:08 [SoundSystemLowLevel] DirectSound Create failed.
+02/15 00:43:08 [SoundSystemLowLevel] Failed to initialize direct sound!
+02/15 00:43:09 [SoundSystem] Sound Initialization: Finish, Sampling Rate: 44100
+02/15 00:43:09 ConVarRef r_dota_force_forward doesn't point to an existing ConVar
+02/15 00:43:10 ILocalize::AddFile() failed to load file "resource/keybindings_german.txt".
+02/15 00:43:14 [HangWatchdog] Hang detected.
+02/15 00:43:16 Affinity preferences: 2 logical processors, limiting to 2
+02/15 00:43:16    0 - proc  0 (grp 0:0  / phy 0 / cor 0 / smt 0): max freq 0
+02/15 00:43:16    1 - proc  1 (grp 0:1  / phy 1 / cor 0 / smt 0): max freq 0
+02/15 00:43:16 Affinity preferences: no logical processor speed variation
+02/15 00:43:16 Affinity preferences: disabled (2 physical procs, 2 logical)
+02/15 00:43:16     nopref-all 0: proc 0 (group 0:0)
+02/15 00:43:17   nopref-all slot 0 combined mask 0:0x1
+02/15 00:43:17     nopref-all 1: proc 1 (group 0:1)
+02/15 00:43:17   nopref-all slot 1 combined mask 0:0x2
+02/15 00:43:17 Affinity preferences: no preferences, skipping assignment
+02/15 00:43:20 [SteamNetSockets] Waited 7.0ms for SteamNetworkingSockets lock
+02/15 00:43:21 [HangWatchdog] Hang detected.
+02/15 00:43:23 [SteamNetSockets] SteamNetworkingSockets lock held for 7.0ms.  (Performance warning).  ServiceThread
+02/15 00:43:24 [SteamNetSockets] Waited 3.4ms for SteamNetworkingSockets lock
+02/15 00:43:25 [SteamNetSockets] SteamNetworkingSockets lock held for 8.4ms.  (Performance warning).  ServiceThread
+02/15 00:43:29 [HangWatchdog] Hang detected.
