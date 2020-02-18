@@ -1,66 +1,66 @@
-02/16 05:55:55 [RenderSystem] Determined driver version for graphics adapter 0 [output 0] 'Microsoft Basic Render Driver': 10.0.18362.356
-02/16 05:55:56 [RenderSystem] Loaded video settings config from 'cfg\video_tools.txt'
-02/16 05:56:28 [Filesystem] ---------------
-02/16 05:56:28 [Filesystem] Path ID:             File Path:
-02/16 05:56:28 [Filesystem] ADDONS               "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\" 
-02/16 05:56:28 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota\" 
-02/16 05:56:28 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\core\" 
-02/16 05:56:28 [Filesystem] CONTENTADDONS        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota_addons\" 
-02/16 05:56:28 [Filesystem] CONTENTROOT          "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\" 
-02/16 05:56:28 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
-02/16 05:56:28 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
-02/16 05:56:28 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\" 
-02/16 05:56:28 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\" 
-02/16 05:56:28 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
-02/16 05:56:28 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
-02/16 05:56:28 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk
-02/16 05:56:28 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk
-02/16 05:56:28 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
-02/16 05:56:28 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
-02/16 05:56:28 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\win64\" 
-02/16 05:56:28 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\" 
-02/16 05:56:28 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\win64\" 
-02/16 05:56:28 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\" 
-02/16 05:56:28 [Filesystem] GAMEROOT             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\" 
-02/16 05:56:28 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
-02/16 05:56:28 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
-02/16 05:56:28 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
-02/16 05:56:28 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
-02/16 05:56:28 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
-02/16 05:56:28 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\core\" 
-02/16 05:56:28 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_addons\" 
-02/16 05:56:28 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_core\" 
-02/16 05:56:28 [Filesystem] SHADER_SOURCE_MOD    "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
-02/16 05:56:28 [Filesystem] SHADER_SOURCE_ROOT   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\" 
-02/16 05:56:28 [CommandLine] command line arguments:
-02/16 05:56:28 [CommandLine] -tools -condebug +dump_modifier_list +dota_launch_custom_game dota_dump dota
-02/16 05:56:44 [SteamNetSockets] Initialized low level socket/threading support.
-02/16 05:56:44 [Networking] Got ISteamNetworkingSockets user interfaces from standalone lib
-02/16 05:56:44 [SteamNetSockets] Pending ping measurement until network config is obtained.
-02/16 05:56:44 [SteamNetSockets] RelayNetWorkStatus:  avail=Attempting  config=Attempting  anyrelay=Waiting   (Attempt #1 to fetch config from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570&partner=valve)
-02/16 05:56:44 [SteamNetSockets] SteamNetworkingSockets lock held for 29.3ms.  (Performance warning).  BeginFetchNetworkConfig
-02/16 05:56:44 [SteamNetSockets] AuthStatus (steamid:76561199022215920):  Attempting  (Requesting cert)
-02/16 05:56:44 [Networking] Network System Initialized
-02/16 05:56:53 [SceneSystem] Thread pool has 1 threads, scene system using 1 partitions
-02/16 05:57:04 [Vfx] No valid vcs file found for shader gaussian_bloom_blur.vfx
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
-02/16 05:57:04 [Vfx] No valid vcs file found for shader gaussian_bloom_blur_cs.vfx
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/16 05:57:04 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
-02/16 05:57:22 [SteamNetSockets] Waited 6.2ms for SteamNetworkingSockets lock
-02/16 05:57:38 [SteamNetSockets] Waited 8.4ms for SteamNetworkingSockets lock
-02/16 05:57:55 WARNING: unable to link rr_findrules_verbose and rr_findrules_verbose because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
-02/16 05:57:55 WARNING: unable to link rr_findrules and rr_findrules because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
-02/16 05:58:38 [AssetSystem] AssetSystem: Mod 'dota' set to read-only
-02/16 05:58:38 [AssetSystem] AssetSystem: Mod 'core' set to read-only
+02/18 04:55:55 [RenderSystem] Determined driver version for graphics adapter 0 [output 0] 'Microsoft Basic Render Driver': 10.0.18362.356
+02/18 04:56:03 [RenderSystem] Loaded video settings config from 'cfg\video_tools.txt'
+02/18 04:56:37 [Filesystem] ---------------
+02/18 04:56:37 [Filesystem] Path ID:             File Path:
+02/18 04:56:37 [Filesystem] ADDONS               "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\" 
+02/18 04:56:37 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota\" 
+02/18 04:56:37 [Filesystem] CONTENT              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\core\" 
+02/18 04:56:37 [Filesystem] CONTENTADDONS        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\dota_addons\" 
+02/18 04:56:37 [Filesystem] CONTENTROOT          "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\content\" 
+02/18 04:56:37 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+02/18 04:56:37 [Filesystem] DEFAULT_WRITE_PATH   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
+02/18 04:56:37 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\" 
+02/18 04:56:37 [Filesystem] EXECUTABLE_PATH      "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\" 
+02/18 04:56:37 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+02/18 04:56:37 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
+02/18 04:56:37 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk
+02/18 04:56:37 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk
+02/18 04:56:37 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
+02/18 04:56:37 [Filesystem] GAME                 "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
+02/18 04:56:37 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\win64\" 
+02/18 04:56:37 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\bin\" 
+02/18 04:56:37 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\win64\" 
+02/18 04:56:37 [Filesystem] GAMEBIN              "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\bin\" 
+02/18 04:56:37 [Filesystem] GAMEROOT             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\" 
+02/18 04:56:37 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+02/18 04:56:37 [Filesystem] MOD                  "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\" 
+02/18 04:56:37 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
+02/18 04:56:37 [Filesystem] PLATFORM             "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\core\" 
+02/18 04:56:37 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
+02/18 04:56:37 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\core\" 
+02/18 04:56:37 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_addons\" 
+02/18 04:56:37 [Filesystem] SHADER_SOURCE        "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota_core\" 
+02/18 04:56:37 [Filesystem] SHADER_SOURCE_MOD    "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
+02/18 04:56:37 [Filesystem] SHADER_SOURCE_ROOT   "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\src\shaders\" 
+02/18 04:56:37 [CommandLine] command line arguments:
+02/18 04:56:37 [CommandLine] -tools -condebug +dump_modifier_list +dota_launch_custom_game dota_dump dota
+02/18 04:57:10 [SteamNetSockets] Initialized low level socket/threading support.
+02/18 04:57:10 [Networking] Got ISteamNetworkingSockets user interfaces from standalone lib
+02/18 04:57:10 [SteamNetSockets] Pending ping measurement until network config is obtained.
+02/18 04:57:10 [SteamNetSockets] RelayNetWorkStatus:  avail=Attempting  config=Attempting  anyrelay=Waiting   (Attempt #1 to fetch config from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570&partner=valve)
+02/18 04:57:10 [SteamNetSockets] SteamNetworkingSockets lock held for 26.6ms.  (Performance warning).  BeginFetchNetworkConfig
+02/18 04:57:10 [SteamNetSockets] AuthStatus (steamid:76561199022215920):  Attempting  (Requesting cert)
+02/18 04:57:10 [Networking] Network System Initialized
+02/18 04:57:37 [SceneSystem] Thread pool has 1 threads, scene system using 1 partitions
+02/18 04:57:48 [Vfx] No valid vcs file found for shader gaussian_bloom_blur.vfx
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur.vfx for material materials/dev/gaussian_bloom_blur.vmat!
+02/18 04:57:48 [Vfx] No valid vcs file found for shader gaussian_bloom_blur_cs.vfx
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/18 04:57:48 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1178): Error creating shader gaussian_bloom_blur_cs.vfx for material materials/dev/gaussian_bloom_blur_cs.vmat!
+02/18 04:57:48 [SteamNetSockets] SteamNetworkingSockets lock held for 6.2ms.  (Performance warning).  ServiceThread
+02/18 04:58:36 WARNING: unable to link rr_findrules_verbose and rr_findrules_verbose because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+02/18 04:58:36 WARNING: unable to link rr_findrules and rr_findrules because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+02/18 04:59:04 [SteamNetSockets] Waited 2.5ms for SteamNetworkingSockets lock
+02/18 04:59:04 [SteamNetSockets] Waited 7.6ms for SteamNetworkingSockets lock
+02/18 04:59:04 [SteamNetSockets] SteamNetworkingSockets lock held for 33.3ms.  (Performance warning).  ServiceThread
